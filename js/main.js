@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".menu-btn").click(function(n){$(".menu").toggleClass("hide")})});
